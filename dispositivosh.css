@@ -1,0 +1,36 @@
+body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-image: url(https://www.freepik.es/vector-gratis/fondo-mancha-acuarela-color-pastel_4699520.htm#query=color%20pastel&position=3&from_view=keyword);
+    text-align: justify;
+}
+
+image.mediana{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+
+h2{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    font-size: 1rem;
+}
